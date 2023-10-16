@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/michael.luto/OneDrive - Emerson/Notebooks/Documents/Office Files/RPA_New/vscode-cert2/Example/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
